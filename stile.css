@@ -1,0 +1,50 @@
+h1{
+	color: black;
+	font-family: monospace;
+	font-size: 2em;
+}
+ul{
+	list-style: none;
+}
+div{
+	border: 1px black solid;
+}
+.box{
+	display: inline-block;
+	width: 45%;
+}
+#menu{
+	width: 25%;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+   text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkblue;
+   text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+img{
+	width: 90%;
+
+}
+
+#logo{
+	width: 100px
+}
